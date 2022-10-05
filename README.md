@@ -46,6 +46,16 @@ Como funcionaria: Esta parceria pode ser um determinado produto anunciado no app
 Essa não é uma prática muito utilizada, alguns poucos aplicativos como o RAR e alguns aplicativos de jogos utilizam este meio de monetização, e o motivo é bem óbvio, se o objetivo é retorno financeiro, esperar ou depender de doações não é uma boa ideia. 
 Mas a funcionalidade é bem simples, se o app ajuda bastante as pessoas e a sociedade de alguma forma, mas você não quer cobrar alguma quantia por ele, você pode colocar um botão para doação no app e utilizar plataformas como Paypal ou PagSeguro, assim as pessoas ficam livres para doar o quanto quiser.
 
+## Análise crítica do filme: O Jogo da Imitação.
+
+ Diante do filme assistido em sala com a classe e o professor, o filme aborda a história de um país que estava lutando para sobreviver em meio a segunda guerra mundial, e dependia de informações e pessoas para descobrirem as mensagens transmitidas vias onda de rádios que precisavam ser decodificadas todos os dias, e a cada novo dia que se passava essas mensagens tinham enigmas diferentes não podendo serem mais decodificadas no dia seguinte. 
+ Foi quando um dos chefes resolveu contratar os serviços de um grande matemático da época chamado de Alan Turing; Ele possuía uma inteligência diferenciada dos demais cientista da época, o mesmo foi fundamental para descobrir como decodificar as mensagens enviadas pelos exércitos inimigos e tornar evitável o ataque deles em seu país.
+ Alan Turing passou vários meses criando uma máquina para que ele pudesse conseguir decodificar as mensagens enquanto seus colegas de trabalho zombavam dele, dizendo que ele era um louco e que jamais iria conseguir criar uma máquina (software) que pudesse realizar tal experimento. O tempo passou e Alan conseguiu os recursos necessários que precisava e conseguiu construir a máquina a qual ele mesmo deu o nome de Christopher, que foi utilizada para conseguir decodificar todos os códigos e assim diminuir o tempo da Segunda Guerra Mundial, e evitar que milhares de pessoas fossem mortas.
+ Após conseguir esse feito, anos depois do fim da segunda guerra ter acabado, no ano de 1954, Alan Turing acabou sendo encontrado morto em sua residência, a causa divulgada foi que ele havia cometido suicídio segundo uma autópsia médica.
+
+## O que é o teste de Turing?
+
+O teste de Turing nada mais é que um teste criado para que uma máquina venha a identificar e revelar qual é a mensagem que está sendo informada através de uma linguagem que só a máquina consegue interpretar e compreender independente de quem esteja passando a mensagem, de qual linguagem a mesma é utilizada.
 
 
 
